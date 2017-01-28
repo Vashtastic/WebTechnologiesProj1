@@ -1,0 +1,115 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	width: 100%;
+	color: white;
+	background-color: black;
+	height: 50px;
+	padding: 5px;
+	margin: 0px;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	font-family: arial;
+}
+
+h1{
+	display: inline;
+	width: 400px;
+	border: 5px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	padding: 10px;
+	height: 40px;
+	float: right;
+	text-align:center;
+	alignment-baseline: central;
+
+}
+
+
+header>ul{
+	margin-top: 0px;
+	float:right;
+	margin-right:50px;
+	margin-left: auto;
+	width: 200px;
+	min-width: 50px;
+	min-height: 50px
+}
+
+header>ul>li{
+	display: inline;
+	margin-left: 40px;
+}
+
+
+
+h2{
+	margin-top: 50px
+}
+
+#WhoAmI{
+	border-top: 5px solid black;
+	width: 100%;
+	margin: 0px;
+	text-align: justify;
+	height: 500px;
+	background-image: url("Wallp2.png");
+	color: white;
+	display: inline-block;
+}
+
+.awef{
+	float: left;
+}
+
+nav>ul>li{
+	display: inline;
+	margin-right:10px;
+}
+
+#main{
+	font-family: "Myriad Pro",diavlo,sans-serif;
+	text-align: justify;
+	width:  700px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 40px;
+	border-top: 3px solid #cbcdcd;
+	border-bottom: 3px solid #cbcdcd;
+	color: #c8cecd;
+	font-size: 17px;
+
+}
+
+#whoHead{
+	text-align: center;
+	margin-bottom: 10px;
+	font-size:3em;
+	font-family: diavlo;
+	text-shadow: 5px 5px 5px black;
+	color: #d0d8d7;
+	margin-top: 70px;
+}
+
+
+#Summary{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	background-color: #d0d0d0;
+}
+
+li.me{
+	display: inline;
+	margin-right:10px;
+}
+
+
+
